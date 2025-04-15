@@ -23,7 +23,7 @@ export async function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Kavelogics Technologies
+         Work Account
         </Link>
       </div>
      
