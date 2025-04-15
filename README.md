@@ -1,6 +1,6 @@
-# Golobe Travel Agency Website
+# TripWise Travel Agency Website
 
-![Home Screen Golobe Travel Agency](/preview.jpg)
+
 
 ## Overview
 
@@ -8,7 +8,7 @@ Welcome to the repository for TripWise Travel Service’s website, your go-to pl
 
 A full-stack nextjs project to practice and showcase the work. The UI design was taken from [Figma community](https://www.figma.com/community/file/1182308758714734501/golobe-travel-agency-website).
 
-Here is the live preview of this website [trip-wise-kappa.vercel.app](https://trip-wise-kappa.vercel.app/)
+Here is the live preview of this website [trip-wise-kappa.vercel.app](https://trip-wise-six.vercel.app/)
 
 ## Note
 
